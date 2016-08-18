@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24738221140058647
+  lightness: 0.4755735177055421
+  rhythmicContrast: 0.3532644836025647
+  saturation: 0.9130643166817106
+layout_spectrum: 0.23374349194264943
+name: Firing Order
+typography_spectrum: 0.7289958662131706
